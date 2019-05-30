@@ -18,7 +18,7 @@
 #### part 2 - merging
 > git checkout master
 
-> git touch deep_thoughts.txt
+> touch deep_thoughts.txt
 
 > git add deep_thoughts.txt
 
